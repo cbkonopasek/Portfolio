@@ -1,4 +1,4 @@
-* {
+*{
 	border: 0 none;
 	outline: 0;
 	padding: 0;
@@ -11,15 +11,20 @@
     background-color: white;
 }
 
+#name > h1{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
 #name{
     display: inline-block;
     margin: 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 #title{
     display: inline-block;
     vertical-align: top;    
-    margin-left: 435px;
+    margin-left: 375px;
     margin-top: 25px;
 }
 
@@ -75,7 +80,17 @@ p{
 }
 
 .button{
-    
+    text-decoration: none;
+    font-size: 12px;
+    text-align: center;
+    color: white;
+    padding: 6px;
+    text-align: center;
+    background-color: #417d61;
+    border-radius: 10px;
+    border: solid #345043 2px;
+    box-shadow: 4px 4px 7px #808684;
+    margin: 10px auto 10px auto;
 }
 
 .bottom{
