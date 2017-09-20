@@ -84,4 +84,15 @@ p{
     background-color: white;
 }
 
+.foot{
+    width: 20px;
+    vertical-align: text-top;
+}
 
+.contact{
+    text-align: center;
+}
+
+#footer{
+    width: 1000px;
+}
