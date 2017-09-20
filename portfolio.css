@@ -36,7 +36,7 @@
 
 #profilepic{
     display: inline-block;
-    width: 400px;
+    width: 420px;
     margin: 10px;
     border: solid 5px #c0c0c0;
 }
@@ -69,8 +69,8 @@ p{
 #aboutme{
     display: inline-block;
     vertical-align: top;
-    width: 544px;
-    height: 273px;
+    width: 524px;
+    height: 286px;
     background: linear-gradient(to right, white, #daccd9);
     margin: 10px;
 }
@@ -121,6 +121,10 @@ p{
     margin: 10px;
     width: 310px;
     background: linear-gradient(to right, white, #daccd9);
+}
+
+.bottom > p{
+    text-align: justify;
 }
 
 .foot{
