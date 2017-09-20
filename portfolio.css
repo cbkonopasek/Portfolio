@@ -3,9 +3,11 @@
 	outline: 0;
 	padding: 0;
     margin: 0;
+    font-family: arial, verdana, sans-serif;
 }
 
 #header{
+    width: 1000px;
     background-color: white;
 }
 
@@ -55,7 +57,7 @@ p{
     vertical-align: top;
     width: 544px;
     height: 273px;
-    background-color: white;
+    background: linear-gradient(to right, white, #daccd9);
     margin: 10px;
 }
 
@@ -81,7 +83,7 @@ p{
     vertical-align: top;  
     margin: 10px;
     width: 310px;
-    background-color: white;
+    background: linear-gradient(to right, white, #daccd9);
 }
 
 .foot{
