@@ -1,0 +1,87 @@
+* {
+	border: 0 none;
+	outline: 0;
+	padding: 0;
+    margin: 0;
+}
+
+#header{
+    background-color: white;
+}
+
+#name{
+    display: inline-block;
+    margin: 20px;
+}
+
+#title{
+    display: inline-block;
+    vertical-align: top;    
+    margin-left: 435px;
+    margin-top: 25px;
+}
+
+#backdrop{
+    width: 1000px;
+    background: radial-gradient(#6f5965, #1c0c10);
+    padding: 10px;
+}
+
+#profilepic{
+    display: inline-block;
+    width: 400px;
+    margin: 10px;
+    border: solid 5px #c0c0c0;
+}
+
+h3{
+    color: white;
+    padding: 8px;
+    background: linear-gradient(#b1b0b5, #878692, #b1b0b5);
+}
+
+h4{
+    color: white;
+    padding: 8px;
+    background: linear-gradient(#b1b0b5, #878692, #b1b0b5);
+}
+
+p{
+    margin: 10px;
+}
+
+#aboutme{
+    display: inline-block;
+    vertical-align: top;
+    width: 544px;
+    height: 273px;
+    background-color: white;
+    margin: 10px;
+}
+
+.techs{
+    margin: 6px 14px;
+}
+
+.tech{
+    width: 40px;
+    margin: 6px;
+}
+
+.ximg{
+    width: 310px;
+}
+
+.button{
+    
+}
+
+.bottom{
+    display: inline-block;  
+    vertical-align: top;  
+    margin: 10px;
+    width: 310px;
+    background-color: white;
+}
+
+
