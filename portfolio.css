@@ -57,6 +57,15 @@ p{
     margin: 10px;
 }
 
+.bottom > p{
+    height: 185px;
+}
+
+#continue{
+    margin: 10px;
+    color: black;
+}
+
 #aboutme{
     display: inline-block;
     vertical-align: top;
@@ -90,12 +99,25 @@ p{
     border-radius: 10px;
     border: solid #345043 2px;
     box-shadow: 4px 4px 7px #808684;
-    margin: 10px auto 10px auto;
 }
+
+#lbtn{
+    margin-left: 122px;
+}
+
+#fbtn{
+    margin-left: 101px;
+}
+
+#ebtn{
+    margin-left: 119px;
+}
+
 
 .bottom{
     display: inline-block;  
     vertical-align: top;  
+    height: 620px;
     margin: 10px;
     width: 310px;
     background: linear-gradient(to right, white, #daccd9);
@@ -112,4 +134,9 @@ p{
 
 #footer{
     width: 1000px;
+}
+
+.ital{
+    font-style: italic;  
+    color: black;  
 }
